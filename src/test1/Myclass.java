@@ -9,7 +9,7 @@ public class Myclass {
 	
 	@Override
 	public String toString() {
-		System.out.println("test");
+		System.out.println("test==");
 		return "Myclass[value=" + value + "]";
 	}
 	

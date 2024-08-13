@@ -1,0 +1,29 @@
+package test1;
+import java.util.Arrays;
+
+public class RemoveDuplicates {
+	public static void main(String[] args) {
+		int[] arr = {1, 1, 2, 2, 3, 4, 5, 5};
+		
+		int n = arr.length;
+		// 여기서 n은 8이 나온다.
+		System.out.println(n);
+		
+		int[] result = new int[n];
+		//8개가 들어갈 수 있는 배열 생성.
+		
+		int j = 0;
+		
+		//여기서 i는 0부터 6까지 총 7번.
+		// 1 1 2 2 3 4 
+		// result = {1, 2, 3, 4, 5};
+		for (int i=0; i< n -1; i++) {
+			if (arr[i] != arr[i+1]) {
+				result[j++] = arr[i];
+			}
+		}
+        result[j++] = arr[n - 1];    
+        System.out.println(Arrays.toString(Arrays.copyOf(result, j)));		
+		
+	}
+}

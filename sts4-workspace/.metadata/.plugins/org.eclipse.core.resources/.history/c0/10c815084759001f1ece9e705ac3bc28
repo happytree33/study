@@ -1,0 +1,17 @@
+package test1;
+
+public class Myclass {
+	private int value;
+	
+	public Myclass(int value) {
+		this.value = value;
+	}
+	
+	@Override
+	public String toString() {
+		return "Myclass[value=" + value + "]";
+		System.out.println("test");
+	}
+	
+	
+}

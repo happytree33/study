@@ -1,0 +1,17 @@
+127.0.0.1 - - [13/Aug/2024:14:57:24 +0900] "GET / HTTP/1.1" 404 807
+127.0.0.1 - - [13/Aug/2024:14:57:25 +0900] "GET /biz/search HTTP/1.1" 200 29356
+127.0.0.1 - - [13/Aug/2024:14:57:26 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+127.0.0.1 - - [13/Aug/2024:14:57:28 +0900] "POST /biz/searchTrans HTTP/1.1" 200 12
+127.0.0.1 - - [13/Aug/2024:14:57:28 +0900] "POST /biz/searchTrans HTTP/1.1" 200 12
+127.0.0.1 - - [13/Aug/2024:14:57:29 +0900] "POST /biz/searchTrans HTTP/1.1" 200 12
+127.0.0.1 - - [13/Aug/2024:14:57:29 +0900] "POST /biz/searchTrans HTTP/1.1" 200 12
+127.0.0.1 - - [13/Aug/2024:14:57:29 +0900] "POST /biz/searchTrans HTTP/1.1" 200 12
+127.0.0.1 - - [13/Aug/2024:14:57:29 +0900] "POST /biz/searchTrans HTTP/1.1" 200 12
+127.0.0.1 - - [13/Aug/2024:14:57:29 +0900] "POST /biz/searchTrans HTTP/1.1" 200 12
+127.0.0.1 - - [13/Aug/2024:14:57:29 +0900] "POST /biz/searchTrans HTTP/1.1" 200 12
+127.0.0.1 - - [13/Aug/2024:14:57:29 +0900] "POST /biz/searchTrans HTTP/1.1" 200 12
+127.0.0.1 - - [13/Aug/2024:14:57:29 +0900] "POST /biz/searchTrans HTTP/1.1" 200 12
+127.0.0.1 - - [13/Aug/2024:14:57:30 +0900] "POST /biz/searchTrans HTTP/1.1" 200 12
+127.0.0.1 - - [13/Aug/2024:14:57:30 +0900] "POST /biz/searchTrans HTTP/1.1" 200 12
+127.0.0.1 - - [13/Aug/2024:14:57:30 +0900] "POST /biz/searchTrans HTTP/1.1" 200 12
+127.0.0.1 - - [13/Aug/2024:14:57:33 +0900] "POST /biz/search HTTP/1.1" 200 33667

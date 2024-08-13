@@ -1,0 +1,17 @@
+INDEX VERSION 1.134
+C:\dev\sts4-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\18365086.index
+\naonSearchTest\src\main\java
+C:\dev\sts4-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\697020033.index
+\naonSearchTest\src\main\java
+C:\dev\sts4-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2345328596.index
+\sampleNaon\src\main\java
+C:\dev\sts4-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\940715474.index
+\sampleNaon\src\main\java
+C:\dev\sts4-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2364959884.index
+\sampleNaon\src\main\java
+C:\dev\sts4-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2487108334.index
+\sampleNaon\src\main\java
+C:\dev\sts4-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\348621752.index
+\sampleNaon\src\main\java
+C:\dev\sts4-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4176671206.index
+\naonSearchTest\src\main\java

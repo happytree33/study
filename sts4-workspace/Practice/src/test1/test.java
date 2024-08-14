@@ -16,5 +16,6 @@ public class test {
 		System.out.println(b);
 		
 		System.out.println("test");
+		System.out.println("test2");
 	}
 }

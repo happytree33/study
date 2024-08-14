@@ -1,0 +1,503 @@
+┌															┐
+   user.home : C:\Users\HP 15
+   java.home : C:\Program Files\Java\jdk-18.0.2.1
+   java.vendor : Oracle Corporation
+   java.version : 18.0.2.1
+   os.name : Windows 11
+   os.arch : amd64
+   os.version : 10.0
+   sun.cpu.endian : little
+   user.timezone : Asia/Seoul
+   file.encoding : UTF-8
+└															┘
+14:47:12 [INFO] setPropertyPath() SUCCESS
+14:47:12 [DEBUG] setUseServiceLinkerIcon : false
+
+14:47:12 [INFO] Version : 4.1.10.48
+14:47:12 [INFO] propertyPath : softcamp.properties
+14:47:13 [INFO] SendType:[0],LogType:[0]
+14:47:13 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+14:47:13 [INFO] setPropertyPath() SUCCESS
+14:47:13 [DEBUG] setUseServiceLinkerIcon : false
+
+14:47:13 [INFO] Version : 4.1.10.48
+14:47:13 [INFO] propertyPath : softcamp.properties
+14:47:13 [INFO] SendType:[0],LogType:[0]
+14:47:13 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+14:47:17 [INFO] setPropertyPath() SUCCESS
+14:47:17 [DEBUG] setUseServiceLinkerIcon : false
+
+14:47:17 [INFO] Version : 4.1.10.48
+14:47:17 [INFO] propertyPath : softcamp.properties
+14:47:18 [INFO] SendType:[0],LogType:[0]
+14:47:18 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+14:47:18 [INFO] setPropertyPath() SUCCESS
+14:47:18 [DEBUG] setUseServiceLinkerIcon : false
+
+14:47:18 [INFO] Version : 4.1.10.48
+14:47:18 [INFO] propertyPath : softcamp.properties
+14:47:18 [INFO] SendType:[0],LogType:[0]
+14:47:18 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+14:47:26 [INFO] setPropertyPath() SUCCESS
+14:47:26 [DEBUG] setUseServiceLinkerIcon : false
+
+14:47:26 [INFO] Version : 4.1.10.48
+14:47:26 [INFO] propertyPath : softcamp.properties
+14:47:26 [INFO] SendType:[0],LogType:[0]
+14:47:26 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+14:47:26 [INFO] setPropertyPath() SUCCESS
+14:47:26 [DEBUG] setUseServiceLinkerIcon : false
+
+14:47:26 [INFO] Version : 4.1.10.48
+14:47:26 [INFO] propertyPath : softcamp.properties
+14:47:26 [INFO] SendType:[0],LogType:[0]
+14:47:26 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+14:48:36 [INFO] setPropertyPath() SUCCESS
+14:48:36 [DEBUG] setUseServiceLinkerIcon : false
+
+14:48:36 [INFO] Version : 4.1.10.48
+14:48:36 [INFO] propertyPath : c:\test2\DRM\02_Module\02_ServiceLinker\softcamp.properties
+14:48:36 [INFO] SendType:[0],LogType:[0]
+14:48:36 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+14:48:36 [DEBUG] initDAC()
+14:48:36 [DEBUG] addUserDAC()
+14:48:36 [INFO] :null:SECURITYDOMAIN:111001100::0:0:true:
+
+14:48:36 [INFO] Version : 4.1.10.48
+14:48:36 [DEBUG] encryptDAC()
+14:48:36 [INFO] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:System:c:\test2\DRM\03_Sample\test2.xls:c:\test2\DRM\03_Sample\test2_Enc.xls:0:1:::0:
+14:48:36 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+14:48:36 [DEBUG] parseBody end hashtable count = 45
+14:48:36 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+14:48:36 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc, Total Loading : 1
+14:48:36 [INFO] Support file (c:\test2\DRM\03_Sample\test2.xls)
+14:48:36 [keyfile] KeyFileManager.getKeyFile(1) hashtable contain key ok 
+14:48:36 [keyfile] KeyFileManager.getKeyFile(1) keyfile read  
+14:48:36 [DEBUG] DSBSDT_SFI_SRCFILE_SIZE : 275968
+14:48:36 [DEBUG] This File(c:\test2\DRM\03_Sample\test2.xls) is Natural file
+14:48:36 [DEBUG] encrypt()
+14:48:36 [DEBUG] encrypt() Success
+14:48:36 [DEBUG] encryptDAC Success
+14:48:36 [DEBUG] [ENCDAC][SIZE]275968[STIME]1717393716386[ETIME]1717393716573[TIME]187
+14:48:36 [WARNING] LogPath is null or Empty
+14:48:37 [INFO] setPropertyPath() SUCCESS
+14:48:37 [DEBUG] setUseServiceLinkerIcon : false
+
+14:48:37 [INFO] Version : 4.1.10.48
+14:48:37 [INFO] propertyPath : c:\test2\DRM\02_Module\02_ServiceLinker\softcamp.properties
+14:48:37 [INFO] SendType:[0],LogType:[0]
+14:48:37 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+
+14:48:37 [INFO] Version : 4.1.10.48
+14:48:37 [DEBUG] decrypt()
+14:48:37 [INFO] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:SECURITYDOMAIN:c:\test2\DRM\03_Sample\test2_Enc.xls:c:\test2\DRM\03_Sample\test2_Dec.xls:1:
+14:48:37 [INFO] :null:
+14:48:37 [DEBUG] parseFromFile() - headerSize : 1104
+14:48:37 [DEBUG] getDocuEncKey()
+14:48:37 [DEBUG] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:SECURITYDOMAIN:test2_Enc.xls:
+14:48:37 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+14:48:37 [DEBUG] parseBody end hashtable count = 45
+14:48:37 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+14:48:37 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc, Total Loading : 1
+14:48:37 [DEBUG] decryptFile()
+14:48:37 [INFO] :c:\test2\DRM\03_Sample\test2_Enc.xls:c:\test2\DRM\03_Sample\test2_Dec.xls:1118:AES:
+14:48:37 [DEBUG] read() - sleep count(-1) readCount(528)
+14:48:37 [DEBUG] [DEC][SIZE]277102[STIME]1717393717224[ETIME]1717393717354[TIME]130
+14:48:37 [WARNING] LogPath is null or Empty
+15:50:16 [INFO] setPropertyPath() SUCCESS
+15:50:16 [DEBUG] setUseServiceLinkerIcon : false
+
+15:50:16 [INFO] Version : 4.1.10.48
+15:50:16 [INFO] propertyPath : c:\test2\DRM\02_Module\02_ServiceLinker\softcamp.properties
+15:50:16 [INFO] SendType:[0],LogType:[0]
+15:50:16 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+
+15:50:16 [INFO] Version : 4.1.10.48
+15:50:16 [DEBUG] decrypt()
+15:50:16 [INFO] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:SECURITYDOMAIN:c:\test2\file\enc\test2_Enc.xls:c:\test2\file\drmFilter\test2_Dec.xls:1:
+15:50:16 [INFO] :null:
+15:50:16 [ERROR] com.softcamp.scsl.SCSLException: exceptionNo : 1000 :  exceptionMsg : c:\test2\file\enc\test2_Enc.xls
+	at com.softcamp.scsl.SLDsFile.decrypt(SLDsFile.java:3204)
+	at SCSL.SLDsFile.CreateDecryptFileDAC(SLDsFile.java:167)
+	at TestDec.main(TestDec.java:17)
+
+15:50:16 [WARNING] LogPath is null or Empty
+15:50:20 [INFO] setPropertyPath() SUCCESS
+15:50:20 [DEBUG] setUseServiceLinkerIcon : false
+
+15:50:20 [INFO] Version : 4.1.10.48
+15:50:20 [INFO] propertyPath : c:\test2\DRM\02_Module\02_ServiceLinker\softcamp.properties
+15:50:21 [INFO] SendType:[0],LogType:[0]
+15:50:21 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+
+15:50:21 [INFO] Version : 4.1.10.48
+15:50:21 [DEBUG] decrypt()
+15:50:21 [INFO] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:SECURITYDOMAIN:c:\test2\file\enc\test2_Enc.xls:c:\test2\file\drmFilter\test2_Dec.xls:1:
+15:50:21 [INFO] :null:
+15:50:21 [ERROR] com.softcamp.scsl.SCSLException: exceptionNo : 1000 :  exceptionMsg : c:\test2\file\enc\test2_Enc.xls
+	at com.softcamp.scsl.SLDsFile.decrypt(SLDsFile.java:3204)
+	at SCSL.SLDsFile.CreateDecryptFileDAC(SLDsFile.java:167)
+	at TestDec.main(TestDec.java:17)
+
+15:50:21 [WARNING] LogPath is null or Empty
+15:51:15 [INFO] setPropertyPath() SUCCESS
+15:51:15 [DEBUG] setUseServiceLinkerIcon : false
+
+15:51:15 [INFO] Version : 4.1.10.48
+15:51:15 [INFO] propertyPath : c:\test2\DRM\02_Module\02_ServiceLinker\softcamp.properties
+15:51:15 [INFO] SendType:[0],LogType:[0]
+15:51:15 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+15:51:15 [DEBUG] initDAC()
+15:51:15 [DEBUG] addUserDAC()
+15:51:15 [INFO] :null:System:111001100::0:0:true:
+
+15:51:15 [INFO] Version : 4.1.10.48
+15:51:15 [DEBUG] encryptDAC()
+15:51:15 [INFO] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:System:c:\test2\file\upload\test2.xls:c:\test2\file\enc\test2_Enc.xls:0:1:::0:
+15:51:15 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+15:51:15 [DEBUG] parseBody end hashtable count = 45
+15:51:15 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+15:51:15 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc, Total Loading : 1
+15:51:15 [INFO] Support file (c:\test2\file\upload\test2.xls)
+15:51:15 [keyfile] KeyFileManager.getKeyFile(1) hashtable contain key ok 
+15:51:15 [keyfile] KeyFileManager.getKeyFile(1) keyfile read  
+15:51:15 [WARNING] encryptDAC WARNING - System Not Found!
+15:51:15 [ERROR] encryptDAC FAIL - UserDACInfoList.size() - NO_SEARCH_IDs_KEY
+15:51:15 [ERROR] com.softcamp.scsl.SCSLException: exceptionNo : 3001
+	at com.softcamp.scsl.SLDsFile.encryptDAC(SLDsFile.java:1703)
+	at SCSL.SLDsFile.SLDsEncFileDACV2(SLDsFile.java:522)
+	at TestEnc.main(TestEnc.java:28)
+
+15:51:15 [WARNING] LogPath is null or Empty
+15:51:15 [INFO] setPropertyPath() SUCCESS
+15:51:15 [DEBUG] setUseServiceLinkerIcon : false
+
+15:51:15 [INFO] Version : 4.1.10.48
+15:51:15 [INFO] propertyPath : c:\test2\DRM\02_Module\02_ServiceLinker\softcamp.properties
+15:51:15 [INFO] SendType:[0],LogType:[0]
+15:51:15 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+
+15:51:15 [INFO] Version : 4.1.10.48
+15:51:15 [DEBUG] decrypt()
+15:51:15 [INFO] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:SECURITYDOMAIN:c:\test2\file\enc\test2_Enc.xls:c:\test2\file\drmFilter\test2_Dec.xls:1:
+15:51:15 [INFO] :null:
+15:51:15 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+15:51:15 [DEBUG] parseBody end hashtable count = 45
+15:51:15 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+15:51:16 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc, Total Loading : 1
+15:51:16 [keyfile] KeyFileManager.getKeyFile(1) hashtable contain key ok 
+15:51:16 [keyfile] KeyFileManager.getKeyFile(1) keyfile read  
+15:51:16 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+15:51:16 [DEBUG] parseBody end hashtable count = 4
+15:51:16 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+C:\test2\DRM\04_KeyFile\keyGrade_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+15:51:16 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyGrade_SVR0.sc, Total Loading : 2
+15:51:16 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+15:51:16 [DEBUG] parseBody end hashtable count = 5
+15:51:16 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyMAC_SVR0.sc : 2017-11-15 20:48:28
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+C:\test2\DRM\04_KeyFile\keyGrade_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+15:51:16 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyMAC_SVR0.sc, Total Loading : 3
+15:51:16 [DEBUG] [COPYFILE][SIZE]0[STIME]1717397476227[ETIME]1717397476227[TIME]0
+15:51:16 [WARNING] LogPath is null or Empty
+15:52:24 [INFO] setPropertyPath() SUCCESS
+15:52:24 [DEBUG] setUseServiceLinkerIcon : false
+
+15:52:24 [INFO] Version : 4.1.10.48
+15:52:24 [INFO] propertyPath : c:\test2\DRM\02_Module\02_ServiceLinker\softcamp.properties
+15:52:24 [INFO] SendType:[0],LogType:[0]
+15:52:24 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+15:52:24 [DEBUG] initDAC()
+15:52:24 [DEBUG] addUserDAC()
+15:52:24 [INFO] :null:SECURITYDOMAIN:111001100::0:0:true:
+
+15:52:24 [INFO] Version : 4.1.10.48
+15:52:24 [DEBUG] encryptDAC()
+15:52:24 [INFO] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:System:c:\test2\file\upload\test2.xls:c:\test2\file\enc\test2_Enc.xls:0:1:::0:
+15:52:24 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+15:52:24 [DEBUG] parseBody end hashtable count = 45
+15:52:24 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+15:52:24 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc, Total Loading : 1
+15:52:24 [INFO] Support file (c:\test2\file\upload\test2.xls)
+15:52:24 [keyfile] KeyFileManager.getKeyFile(1) hashtable contain key ok 
+15:52:24 [keyfile] KeyFileManager.getKeyFile(1) keyfile read  
+15:52:25 [DEBUG] DSBSDT_SFI_SRCFILE_SIZE : 275968
+15:52:25 [DEBUG] This File(c:\test2\file\upload\test2.xls) is Natural file
+15:52:25 [DEBUG] encrypt()
+15:52:25 [DEBUG] encrypt() Success
+15:52:25 [DEBUG] encryptDAC Success
+15:52:25 [DEBUG] [ENCDAC][SIZE]275968[STIME]1717397544869[ETIME]1717397545046[TIME]177
+15:52:25 [WARNING] LogPath is null or Empty
+15:52:25 [INFO] setPropertyPath() SUCCESS
+15:52:25 [DEBUG] setUseServiceLinkerIcon : false
+
+15:52:25 [INFO] Version : 4.1.10.48
+15:52:25 [INFO] propertyPath : c:\test2\DRM\02_Module\02_ServiceLinker\softcamp.properties
+15:52:25 [INFO] SendType:[0],LogType:[0]
+15:52:25 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+
+15:52:25 [INFO] Version : 4.1.10.48
+15:52:25 [DEBUG] decrypt()
+15:52:25 [INFO] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:SECURITYDOMAIN:c:\test2\file\enc\test2_Enc.xls:c:\test2\file\drmFilter\test2_Dec.xls:1:
+15:52:25 [INFO] :null:
+15:52:25 [DEBUG] parseFromFile() - headerSize : 1104
+15:52:25 [DEBUG] getDocuEncKey()
+15:52:25 [DEBUG] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:SECURITYDOMAIN:test2_Enc.xls:
+15:52:25 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+15:52:25 [DEBUG] parseBody end hashtable count = 45
+15:52:25 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+15:52:25 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc, Total Loading : 1
+15:52:25 [DEBUG] decryptFile()
+15:52:25 [INFO] :c:\test2\file\enc\test2_Enc.xls:c:\test2\file\drmFilter\test2_Dec.xls:1118:AES:
+15:52:25 [DEBUG] read() - sleep count(-1) readCount(528)
+15:52:25 [DEBUG] [DEC][SIZE]277102[STIME]1717397545719[ETIME]1717397545829[TIME]110
+15:52:25 [WARNING] LogPath is null or Empty
+15:56:46 [INFO] setPropertyPath() SUCCESS
+15:56:46 [DEBUG] setUseServiceLinkerIcon : false
+
+15:56:46 [INFO] Version : 4.1.10.48
+15:56:46 [INFO] propertyPath : c:\test2\DRM\02_Module\02_ServiceLinker\softcamp.properties
+15:56:46 [INFO] SendType:[0],LogType:[0]
+15:56:46 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+15:56:46 [DEBUG] initDAC()
+15:56:46 [DEBUG] addUserDAC()
+15:56:46 [INFO] :null:SECURITYDOMAIN:111001100::0:0:true:
+
+15:56:46 [INFO] Version : 4.1.10.48
+15:56:46 [DEBUG] encryptDAC()
+15:56:46 [INFO] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:System:c:\test2\file\upload\test2.xls:c:\test2\file\enc\test2_Enc.xls:0:1:::0:
+15:56:46 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+15:56:46 [DEBUG] parseBody end hashtable count = 45
+15:56:46 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+15:56:46 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc, Total Loading : 1
+15:56:46 [INFO] Support file (c:\test2\file\upload\test2.xls)
+15:56:47 [keyfile] KeyFileManager.getKeyFile(1) hashtable contain key ok 
+15:56:47 [keyfile] KeyFileManager.getKeyFile(1) keyfile read  
+15:56:47 [DEBUG] DSBSDT_SFI_SRCFILE_SIZE : 275968
+15:56:47 [DEBUG] This File(c:\test2\file\upload\test2.xls) is Natural file
+15:56:47 [DEBUG] encrypt()
+15:56:47 [DEBUG] encrypt() Success
+15:56:47 [DEBUG] encryptDAC Success
+15:56:47 [DEBUG] [ENCDAC][SIZE]275968[STIME]1717397806933[ETIME]1717397807109[TIME]176
+15:56:47 [WARNING] LogPath is null or Empty
+15:56:47 [INFO] setPropertyPath() SUCCESS
+15:56:47 [DEBUG] setUseServiceLinkerIcon : false
+
+15:56:47 [INFO] Version : 4.1.10.48
+15:56:47 [INFO] propertyPath : c:\test2\DRM\02_Module\02_ServiceLinker\softcamp.properties
+15:56:47 [INFO] SendType:[0],LogType:[0]
+15:56:47 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+
+15:56:47 [INFO] Version : 4.1.10.48
+15:56:47 [DEBUG] decrypt()
+15:56:47 [INFO] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:SECURITYDOMAIN:c:\test2\file\enc\test2_Enc.xls:c:\test2\file\drmFilter\test2_Dec.xls:1:
+15:56:47 [INFO] :null:
+15:56:47 [DEBUG] parseFromFile() - headerSize : 1104
+15:56:47 [DEBUG] getDocuEncKey()
+15:56:47 [DEBUG] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:SECURITYDOMAIN:test2_Enc.xls:
+15:56:47 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+15:56:47 [DEBUG] parseBody end hashtable count = 45
+15:56:47 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+15:56:47 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc, Total Loading : 1
+15:56:47 [DEBUG] decryptFile()
+15:56:47 [INFO] :c:\test2\file\enc\test2_Enc.xls:c:\test2\file\drmFilter\test2_Dec.xls:1118:AES:
+15:56:47 [DEBUG] read() - sleep count(-1) readCount(528)
+15:56:47 [DEBUG] [DEC][SIZE]277102[STIME]1717397807768[ETIME]1717397807875[TIME]107
+15:56:47 [WARNING] LogPath is null or Empty
+16:12:24 [INFO] setPropertyPath() SUCCESS
+16:12:24 [DEBUG] setUseServiceLinkerIcon : false
+
+16:12:24 [INFO] Version : 4.1.10.48
+16:12:24 [INFO] propertyPath : c:\test2\DRM\02_Module\02_ServiceLinker\softcamp.properties
+16:12:24 [INFO] SendType:[0],LogType:[0]
+16:12:24 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+
+16:12:24 [INFO] Version : 4.1.10.48
+16:12:24 [DEBUG] decrypt()
+16:12:24 [INFO] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:SECURITYDOMAIN:c:\test2\file\upload\test2.xls:c:\test2\file\drmFilter\test2_Dec.xls:1:
+16:12:24 [INFO] :null:
+16:12:24 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+16:12:24 [DEBUG] parseBody end hashtable count = 45
+16:12:24 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+16:12:24 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc, Total Loading : 1
+16:12:24 [keyfile] KeyFileManager.getKeyFile(1) hashtable contain key ok 
+16:12:24 [keyfile] KeyFileManager.getKeyFile(1) keyfile read  
+16:12:24 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+16:12:24 [DEBUG] parseBody end hashtable count = 4
+16:12:24 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+C:\test2\DRM\04_KeyFile\keyGrade_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+16:12:24 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyGrade_SVR0.sc, Total Loading : 2
+16:12:24 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+16:12:24 [DEBUG] parseBody end hashtable count = 5
+16:12:24 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyMAC_SVR0.sc : 2017-11-15 20:48:28
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+C:\test2\DRM\04_KeyFile\keyGrade_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+16:12:24 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyMAC_SVR0.sc, Total Loading : 3
+16:12:24 [DEBUG] [COPYFILE][SIZE]275968[STIME]1717398744474[ETIME]1717398744482[TIME]8
+16:12:24 [WARNING] LogPath is null or Empty
+16:12:51 [INFO] setPropertyPath() SUCCESS
+16:12:51 [DEBUG] setUseServiceLinkerIcon : false
+
+16:12:51 [INFO] Version : 4.1.10.48
+16:12:51 [INFO] propertyPath : c:\test2\DRM\02_Module\02_ServiceLinker\softcamp.properties
+16:12:51 [INFO] SendType:[0],LogType:[0]
+16:12:51 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+
+16:12:51 [INFO] Version : 4.1.10.48
+16:12:51 [DEBUG] decrypt()
+16:12:51 [INFO] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:SECURITYDOMAIN:c:\test2\file\upload\test2.xls:c:\test2\file\drmFilter\test2_Dec.xls:1:
+16:12:51 [INFO] :null:
+16:12:51 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+16:12:51 [DEBUG] parseBody end hashtable count = 45
+16:12:51 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+16:12:52 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc, Total Loading : 1
+16:12:52 [keyfile] KeyFileManager.getKeyFile(1) hashtable contain key ok 
+16:12:52 [keyfile] KeyFileManager.getKeyFile(1) keyfile read  
+16:12:52 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+16:12:52 [DEBUG] parseBody end hashtable count = 4
+16:12:52 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+C:\test2\DRM\04_KeyFile\keyGrade_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+16:12:52 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyGrade_SVR0.sc, Total Loading : 2
+16:12:52 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+16:12:52 [DEBUG] parseBody end hashtable count = 5
+16:12:52 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyMAC_SVR0.sc : 2017-11-15 20:48:28
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+C:\test2\DRM\04_KeyFile\keyGrade_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+16:12:52 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyMAC_SVR0.sc, Total Loading : 3
+16:12:52 [DEBUG] [COPYFILE][SIZE]275968[STIME]1717398772196[ETIME]1717398772196[TIME]0
+16:12:52 [WARNING] LogPath is null or Empty
+16:13:35 [INFO] setPropertyPath() SUCCESS
+16:13:35 [DEBUG] setUseServiceLinkerIcon : false
+
+16:13:35 [INFO] Version : 4.1.10.48
+16:13:35 [INFO] propertyPath : c:\test2\DRM\02_Module\02_ServiceLinker\softcamp.properties
+16:13:35 [INFO] SendType:[0],LogType:[0]
+16:13:35 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+
+16:13:35 [INFO] Version : 4.1.10.48
+16:13:35 [DEBUG] decrypt()
+16:13:35 [INFO] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:SECURITYDOMAIN:c:\test2\file\upload\test3.xls:c:\test2\file\drmFilter\test3_Dec.xls:1:
+16:13:35 [INFO] :null:
+16:13:35 [DEBUG] parseFromFile() - headerSize : 1104
+16:13:35 [DEBUG] getDocuEncKey()
+16:13:35 [DEBUG] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:SECURITYDOMAIN:test3.xls:
+16:13:35 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+16:13:35 [DEBUG] parseBody end hashtable count = 45
+16:13:35 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+16:13:35 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc, Total Loading : 1
+16:13:35 [DEBUG] decryptFile()
+16:13:35 [INFO] :c:\test2\file\upload\test3.xls:c:\test2\file\drmFilter\test3_Dec.xls:1118:AES:
+16:13:35 [DEBUG] read() - sleep count(-1) readCount(528)
+16:13:35 [DEBUG] [DEC][SIZE]277102[STIME]1717398815279[ETIME]1717398815357[TIME]78
+16:13:35 [WARNING] LogPath is null or Empty
+16:15:20 [INFO] setPropertyPath() SUCCESS
+16:15:20 [DEBUG] setUseServiceLinkerIcon : false
+
+16:15:20 [INFO] Version : 4.1.10.48
+16:15:20 [INFO] propertyPath : c:\test2\DRM\02_Module\02_ServiceLinker\softcamp.properties
+16:15:20 [INFO] SendType:[0],LogType:[0]
+16:15:20 [INFO] Server:[127.0.0.1:62004],Write:Path[],SysName:[LinkSystem],SysIP:[127.0.0.0]
+
+16:15:20 [INFO] Version : 4.1.10.48
+16:15:20 [DEBUG] decrypt()
+16:15:20 [INFO] :c:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc:SECURITYDOMAIN:c:\test2\file\upload\test.xls:c:\test2\file\drmFilter\test_Dec.xls:1:
+16:15:20 [INFO] :null:
+16:15:20 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+16:15:20 [DEBUG] parseBody end hashtable count = 45
+16:15:20 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+16:15:20 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc, Total Loading : 1
+16:15:20 [keyfile] KeyFileManager.getKeyFile(1) hashtable contain key ok 
+16:15:20 [keyfile] KeyFileManager.getKeyFile(1) keyfile read  
+16:15:20 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+16:15:20 [DEBUG] parseBody end hashtable count = 4
+16:15:20 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+C:\test2\DRM\04_KeyFile\keyGrade_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+16:15:20 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyGrade_SVR0.sc, Total Loading : 2
+16:15:20 [keyfile] KeyFileManager.getKeyFile(1) keyfile write 
+16:15:20 [DEBUG] parseBody end hashtable count = 5
+16:15:20 [keyfile] 
+=============================================================
+C:\test2\DRM\04_KeyFile\keyMAC_SVR0.sc : 2017-11-15 20:48:28
+C:\test2\DRM\04_KeyFile\keyDAC_SVR0.sc : 2017-11-15 20:48:28
+C:\test2\DRM\04_KeyFile\keyGrade_SVR0.sc : 2017-11-15 20:48:28
+=============================================================
+
+16:15:20 [DEBUG] Load Key File : C:\test2\DRM\04_KeyFile\keyMAC_SVR0.sc, Total Loading : 3
+16:15:20 [DEBUG] [COPYFILE][SIZE]275968[STIME]1717398920983[ETIME]1717398920983[TIME]0
+16:15:20 [WARNING] LogPath is null or Empty

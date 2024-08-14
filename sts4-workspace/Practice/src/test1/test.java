@@ -14,5 +14,7 @@ public class test {
 		String b = a.getClass().getName();
 		
 		System.out.println(b);
+		
+		System.out.println("test");
 	}
 }

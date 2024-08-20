@@ -54,6 +54,3 @@ select
 	case when title like 'AC%' then 'true' else 'false' end as TEST 
 FROM film
 WHERE film_id <= 5;
-
-
-

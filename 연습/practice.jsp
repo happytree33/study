@@ -54,3 +54,12 @@ select
 	case when title like 'AC%' then 'true' else 'false' end as TEST 
 FROM film
 WHERE film_id <= 5;
+
+vi /etc/security/limits.conf
+vi /etc/sysctl.conf
+
+sysctl -p
+
+vm.max_map_count
+
+cat /proc/sys/vm/max_map_count

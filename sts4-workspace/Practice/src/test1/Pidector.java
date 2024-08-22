@@ -56,7 +56,73 @@ public class Pidector {
         	
         	System.out.println("key ==> " + key + " value ==> " + value);
         }
-         
+        System.out.println();
+        String test = "abbc";
+        String test2 = "ade";
+        /*
+			영문 대문자 (A-Z):
+			
+			'A'의 아스키 값: 65
+			'B'의 아스키 값: 66
+			'C'의 아스키 값: 67
+			...
+			'Z'의 아스키 값: 90
+			
+			영문 소문자 (a-z):
+			
+			'a'의 아스키 값: 97
+			'b'의 아스키 값: 98
+			'c'의 아스키 값: 99
+			...
+			'z'의 아스키 값: 122
+			
+			대문자와 소문자 사이에는 32의 차이
+         */
+        
+        System.out.println(test.charAt(3));
+        
+        System.out.println(test.compareTo(test2));
+        // 앞에 test가 test2 보다 사전적으로 먼저오면 음수. 같으면 0 뒤에오면 양수
+        // "abbc" 와 "ade"를 비교했을 때, 첫번째는 같으니까 패스
+        // 두번째 b 와 d를 비교. b는 아스키 값이 98, d는 아스키값이 100 이니까 98 - 100 = -2
+        
+        System.out.println(test.concat(test2));
+        // abbc 와 ade 를 concat 하면 abbcade
+        
+        boolean a = test.contains("d");
+        boolean b = test.contains("b");
+        System.out.println("1 => " + a + " / 2 ==> " + b);
+        // false / true 나온다 . contains는 boolean
+        System.out.println();
+        
+        // test는 abbc
+        String c = "d";
+        String d = "ac";
+        String e = "bb";
+        String f = "a";
+        String g = "c";
+        System.out.println(test.indexOf(c)); // -1
+        System.out.println(test.indexOf(d)); // -1
+        System.out.println(test.indexOf(e)); //  1
+        System.out.println(test.indexOf(f));  //  0
+        System.out.println(test.indexOf(g)); //  3
+        System.out.println();
+        // 그래서 존재하는지 판단할 때 g > -1 이런식으로 많이 사용.
+        
+        String result[] = {c, d, e, f, g};
+        
+        for ( String one : result ) {
+        	if (test.indexOf(one) > -1) {
+        		System.out.println(one + " exists in abbc");
+        	}
+        }
+
+        System.out.println(test.substring(1));
+        // 1부터 짜르니까 abbc에서 bbc가 나온다.
+        
+        System.out.println(test.substring(1, 3));
+        // 1부터 3-1 인 2까지 짜르니까 abbc에서 bb가 나온다.
+        
         
         
     }

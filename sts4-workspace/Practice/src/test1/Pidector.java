@@ -1,6 +1,9 @@
 package test1;
 import java.util.regex.Pattern;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.regex.Matcher;
+
 
 public class Pidector {
     public static void main(String[] args) {
@@ -32,5 +35,29 @@ public class Pidector {
         while (emailMatcher.find()) {
             System.out.println(emailMatcher.group());
         }
+        
+        
+        // HashMap 연습.
+        HashMap<String, Object> map = new HashMap<>();
+        
+        HashMap<String, String> innerMap = new HashMap<>();
+        
+        innerMap.put("fruit", "apple");
+        innerMap.put("country", "KOREA");
+        innerMap.put("cloth", "dress");
+        
+        map.put("AAA", innerMap);
+        map.put("BBB", "test");
+        System.out.println();
+        
+        for ( Map.Entry<String, Object> entry : map.entrySet()) {
+        	String key = entry.getKey();
+        	Object value = entry.getValue();
+        	
+        	System.out.println("key ==> " + key + " value ==> " + value);
+        }
+         
+        
+        
     }
 }

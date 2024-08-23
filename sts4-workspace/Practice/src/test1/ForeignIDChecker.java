@@ -92,8 +92,7 @@ public class ForeignIDChecker  extends DateUtil {
 		}
 		
 */
-/* 자동으로 하나씩 돌리는 방법
- *  
+	    // 자동으로 하나씩 돌리는 방법
 	    public static void main(String[] args) {
 	        // Test the method with a valid foreign number
 	        String validForeignNumber = generateValidForeignNumber();
@@ -103,8 +102,9 @@ public class ForeignIDChecker  extends DateUtil {
 	        System.out.println("Testing number: " + front +"-"+end);
 	        System.out.println("Result: " + result);
 	    }
-*/
-	    
+
+	
+	    /*
 	    // true가 나올때까지 계속 반복하는 방법
 	    public static void main(String[] args) {
 	        Random random = new Random();
@@ -125,4 +125,6 @@ public class ForeignIDChecker  extends DateUtil {
 	            }
 	        }
 	    }
+	    */
+	   
 }

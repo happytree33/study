@@ -21,3 +21,7 @@ def exam(num1, num2=2):
   print('a=', num1, 'b=', num2)
 exam(20)
 
+=> a= 20 b= 2
+print 함수는 기본적으로 각 인수를 공백으로 구분하여 출력.
+
+

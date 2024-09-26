@@ -1,4 +1,4 @@
-//키바나
+//키바나 test
 
 GET test/_search
 {
